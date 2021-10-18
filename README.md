@@ -1,8 +1,8 @@
 ### Hi there, I'm Mubashir Hussain 👋
 ----
-- 🔭 I’m currently working on my special GroceryShopping app
+- 🔭 I’m currently working on my special GrocerySaving app
 - 🌱 I’m currently learning to build tools with Python
-- :goal_net:I'm planning to complete my GroceryShopping app by end of 2022
+- :goal_net:I'm planning to complete my GrocerySaving app by end of 2022
 - 📫 How to reach me: <mubashir.hussain@live.com>
 
 ### :toolbox: Languages and Tools
