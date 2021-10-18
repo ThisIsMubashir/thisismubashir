@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Mubashir Hussain 👋
 
+- 🔭 I’m currently working on my special GroceryShopping app
+- 🌱 I’m currently learning to build tools with Python
+- :goal_net:I'm planning to complete my GroceryShopping app by end of 2022
+- 📫 How to reach me: <mubashir.hussain@live.com>
 <!--
 **ThisIsMubashir/thisismubashir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
