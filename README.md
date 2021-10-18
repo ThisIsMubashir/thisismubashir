@@ -1,4 +1,4 @@
-### Hi there, I'm Mubashir Hussain 👋
+### 👋 Hello there, I'm Mubashir Hussain 
 ----
 - 🔭 I’m currently working on my special GrocerySaving app
 - 🌱 I’m currently learning to build tools with Python
