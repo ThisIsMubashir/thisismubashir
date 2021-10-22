@@ -13,9 +13,9 @@
 <img src="logos/php.svg" alt="PHP" width=50px height=50px> <img src="logos/selenium.svg" alt="Selenium" width=50px height=50px> <img src="logos/flutter.svg" alt="Flutter" width=50px height=50px> <img src="logos/andriod-studio.svg" alt="Andriod Studio" width=50px height=50px> <img src="logos/django.svg" alt="Django" width=50px height=50px> 
 -->
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisismubashir&show_icons=true&locale=en&layout=compact" alt="thisismubashir" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisismubashir&show_icons=true&locale=en&layout=compact" alt="thisismubashir" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thisismubashir&show_icons=true&locale=en" alt="thisismubashir" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=thisismubashir&show_icons=true&locale=en" alt="thisismubashir" />
 
 <!--
 **ThisIsMubashir/thisismubashir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
