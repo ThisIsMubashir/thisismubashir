@@ -8,14 +8,17 @@
 ### :toolbox: Languages and Tools
 ----
 <img src="logos/c-plusplus.svg" alt="C++" width=50px height=50px> <img src="logos/c-sharp.svg" alt="C#" width=50px height=50px> <img src="logos/python.svg" alt="Python" width=50px height=50px> <img src="logos/html-5.svg" alt="HTML5" width=50px height=50px> <img src="logos/css-3.svg" alt="CSS3" width=50px height=50px> <img src="logos/javascript.svg" alt="JavaScript" width=50px height=50px> <img src="logos/visual-studio-code.svg" alt="Visual Studio Code" width=50px height=50px>  
+ ###
+ ----
  
  <!--
 <img src="logos/php.svg" alt="PHP" width=50px height=50px> <img src="logos/selenium.svg" alt="Selenium" width=50px height=50px> <img src="logos/flutter.svg" alt="Flutter" width=50px height=50px> <img src="logos/andriod-studio.svg" alt="Andriod Studio" width=50px height=50px> <img src="logos/django.svg" alt="Django" width=50px height=50px> 
 -->
  
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisismubashir&show_icons=true&locale=en&layout=compact" alt="thisismubashir" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisismubashir&show_icons=true&locale=en&layout=compact" alt="thisismubashir" /></p>  
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=thisismubashir&show_icons=true&locale=en" alt="thisismubashir" />
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=thisismubashir&show_icons=true&locale=en" alt="thisismubashir" /></p>
 
 <!--
 **ThisIsMubashir/thisismubashir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
