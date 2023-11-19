@@ -2,7 +2,7 @@
 ----
 - 🔭 I’m currently working on my special GrocerySaving app
 - 🌱 I’m currently learning to build tools with Python
-- :goal_net:I'm planning to complete my GrocerySaving app by end of 2023
+- :goal_net: I'm planning to complete my GrocerySaving app by end of 2024
 - 📫 How to reach me: <mubashir.hussain@live.com>
 
 ### :toolbox: Languages and Tools
